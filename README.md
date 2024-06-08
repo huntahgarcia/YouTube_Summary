@@ -1,4 +1,4 @@
-# YouTube_Summary
+# YouTube Summary
 
 Goal: Insert a YouTube URL then summarize key points
 
